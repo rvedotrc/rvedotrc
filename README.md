@@ -1,8 +1,7 @@
-# Pick a profile
+# Thinking of hiring me?
 
-<span style="font-size: 250%">Thinking of hiring me?</span><br/>
-Then check out my
-[professional profile](./professional.md).
+Then check out my [professional profile](./professional.md).
 
-<span style="font-size: 250%">Here for something other than work?</span><br/>Then take a look at my
-[personal profile](./personal.md).
+# Here for something other than work?
+
+Then take a look at my [personal profile](./personal.md).
