@@ -14,9 +14,6 @@ Almost all of my work has been for my employers, and is therefore private; so al
 - https://git.sr.ht/~rvedotrc/
 - https://github.com/rvedotrc?tab=repositories
 - https://github.com/orgs/blaahaj/repositories
-- https://codeberg.org/rvedotrc
-- https://codeberg.org/blaahaj?tab=repositories
-- https://codeberg.org/teefs
 
 </div>
 <div style="flex-size: 1">
